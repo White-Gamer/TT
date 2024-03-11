@@ -1663,7 +1663,7 @@ logo ="""
 [] TOOLS        :     FILE-CLONING 
 [] TYPE         :       SEXY
 [] FACEBOOK     :       T　O　U　 F　I　K　ツ  
-[] VERSION      :      1.1
+[] VERSION      :      1.0
 [] TELEGRAM     :      TOU4RK
 =================================================="\033[1;23m"""                                
 balpakna =("""\x1b[38;5;50m══════════════════════════════════════════════════""")    
@@ -1703,7 +1703,7 @@ def meyexudi():
   except:
     sys.exit()
 meyexudi()
-os.system("python TT.py")
+os.system("python XNX.py")
 def naima():
 	print('-------------------')
 print(logo)
